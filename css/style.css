@@ -1,0 +1,21 @@
+.page-center{
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(192, 89, 89);
+}
+
+h2 {
+    text-align: center;
+    color: rgb(158, 95, 218);
+}
+
+h4 {
+    color: burlywood;
+}
+
+.background-color {
+    background-color: rgb(134, 113, 83);
+}
